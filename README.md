@@ -1,4 +1,4 @@
-# Chef Recipe Hunter
+# Chef Recipe Hunter Assignment
 
 ## [Client Side Private repo link](https://classroom.github.com/a/ym3y0_ro)
 Click here for the private repo: [https://classroom.github.com/a/ym3y0_ro](https://classroom.github.com/a/ym3y0_ro)
