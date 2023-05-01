@@ -1,5 +1,5 @@
 # Task description
-
+[1 update ](search the word update)
 ## Main Requirements
 
 Create a website that shows the recipes of all available chefs. The website must be exclusively dedicated to one cuisine(Bangladeshi, Chinese, Indian, Mediterranean, Thai, Japanese, Italian, African, Vietnamese, Srilankan, Nepalese, American, Korean, Mexican, Australian, Afgan, French, etc.). For example, if you give Chinese Chef and Chinese food recipes, it will only have Chinese Chef and Chinese food recipes. You cannot add recipes from other countries—only one country chef and recipe.
@@ -36,7 +36,7 @@ Create a website that shows the recipes of all available chefs. The website must
 
 1. On the Registration page, display errors when: 
 
-    -   A user's email address or password doesn't match.
+    >  🚩 update:  If a user's email address or password doesn't match, display error. This error will be displayed on the Login page.
 
     -   The password is less than 6 characters
 
